@@ -1,7 +1,7 @@
 
 import React, { useState } from "react";
 import NavBar from "./components/NavBar";
-import Header from "./components/Header";
+import Header from "./components/eader";
 import Card from "./components/Card";
 
 function App() {
